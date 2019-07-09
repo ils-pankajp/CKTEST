@@ -6,5 +6,6 @@ def program2():
     print("Hello, THis is DAy 3")
     print("Hello, THis is DAy 4")    
     print("Hello, THis is DAy 5")
-    print("Hello, THis is DAy 6")
+    print("Hello, THis is DAy 6")    
+	print("Hello, THis is DAy 7")
 
